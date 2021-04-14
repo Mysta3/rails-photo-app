@@ -1,24 +1,8 @@
-# README
+# Rails Photo App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* used for learning Ruby on Rails.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Completed
+## Needs To Be Done
