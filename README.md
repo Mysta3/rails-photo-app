@@ -6,3 +6,4 @@
 
 ## Completed
 ## Needs To Be Done
+- Fix Sendgrid emailer
