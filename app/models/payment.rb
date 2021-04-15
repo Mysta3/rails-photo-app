@@ -4,7 +4,7 @@ class Payment < ApplicationRecord
 
 
   def self.month_options 
-    Dat::MONTHNAMES.compact.each_with_index.map{ [name, i] ["#{i+1} - #{name}", i+1]}
+    Date::MONTHNAMES.compact.each_with_index.map { |name, i| ["#{i+1} - #{name}", i+1]}
   end
 
 
