@@ -11,3 +11,4 @@
 - Fix Stripe 
   - update stripe to use latest version
   - replace current stripe setup with Stripe checkout maybe... 
+- Improve Design aestethic
