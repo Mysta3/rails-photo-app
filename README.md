@@ -9,4 +9,5 @@
 - Fix Sendgrid emailer
   - emails aren't sending on production
 - Fix Stripe 
-  - update stripe to use latest version 
+  - update stripe to use latest version
+  - replace current stripe setup with Stripe checkout maybe... 
