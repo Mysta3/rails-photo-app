@@ -14,6 +14,7 @@ gem 'devise-bootstrap-views'
 gem 'stripe'
 gem 'carrierwave', '~> 2.0'
 gem 'mini_magick'
+gem "fog-aws"
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
